@@ -15,7 +15,7 @@ def processar_resposta(resposta, nome):
 
 def start():
     # Apresetar o chatbot
-    print('Olá bem vindo(a) ao support.com')
+    print('Olá bem vindo(a) ao nome/algo')
     # Pedir nome
     nome = input('Digite seu nome:')
     # Pedir e-mail
